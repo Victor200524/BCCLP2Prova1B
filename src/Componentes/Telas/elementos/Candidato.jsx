@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Button, Card } from "react-bootstrap";
 
 export default function Candidato(props) {
